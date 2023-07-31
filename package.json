@@ -1,0 +1,17 @@
+{
+  "name": "project-fastify-api",
+  "version": "1.0.0",
+  "description": "This Project was made using Node.js, TypeScript, Fastify, JWT and Prisma.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "tsx watch src/server.ts"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fastify": "^4.21.0",
+    "ts": "^0.2.2",
+    "tsc": "^2.0.4",
+    "tsx": "^3.12.7"
+  }
+}
